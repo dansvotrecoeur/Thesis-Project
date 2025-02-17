@@ -1,4 +1,4 @@
-*Documentation of Thesis Project - Chatbot with Knowledge Graph and Named Entity Recognition for Mathematical Domain*
+**Documentation of Thesis Project - Chatbot with Knowledge Graph and Named Entity Recognition for Mathematical Domain**
 
 
 ***1. Introduction***
@@ -47,5 +47,5 @@ Database: Neo4j (for knowledge graph storage)
 
 Libraries: spaCy, NLTK, NetworkX
 
-*7. Conclusion*
+***7. Conclusion***
 This project aims to advance the capabilities of AI-driven chatbots in the educational sector by integrating a structured knowledge graph and an effective NER model. The findings from this research will contribute to the development of intelligent tutoring systems for mathematics.
