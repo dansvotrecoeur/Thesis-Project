@@ -44,13 +44,13 @@ Comprehensive evaluation results demonstrating the chatbot’s effectiveness.
 
 ## 6. Tools and Technologie ##
 
-Programming Language: Python
+**Programming Language: Python**
 
-Frameworks: TensorFlow, PyTorch (for NER), Dialogflow/Rasa (for chatbot development)
+**Frameworks: Rasa Frameowork (for NER), Neo4j (Knowledge Graph), Dialogflow/Rasa (for chatbot development)**
 
-Database: Neo4j (for knowledge graph storage)
+**Database: Neo4j (for knowledge graph storage)**
 
-Libraries: spaCy, NLTK, NetworkX
+**Libraries: spaCy, NLTK, NetworkX**
 
 
 ##  7. Conclusion ##
