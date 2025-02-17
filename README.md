@@ -1,4 +1,4 @@
-**Documentation of Thesis Project - Chatbot with Knowledge Graph and Named Entity Recognition for Mathematical Domain**
+****Documentation of Thesis Project - Chatbot with Knowledge Graph and Named Entity Recognition for Mathematical Domain****
 
 ***1. Introduction***
 This document serves as the initial documentation for the thesis project, which focuses on developing a chatbot that utilizes a knowledge graph as its database and incorporates Named Entity Recognition (NER) for vocabulary recognition within the mathematical domain.
